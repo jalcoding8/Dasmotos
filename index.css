@@ -1,28 +1,28 @@
 h1, h2, h3, p {
+
     font-family: Helvetica;
 }
 
+p (
+    font-size: 14px;
+)
+
+
   
-  
-  .brushes {
+.brushes {
     font-size: 40px;
     font-weight: bold;
-  }
+}
 
   
-  .frames {
+.frames {
       font-size: 40px;
       font-weight: bold;
-  }
+}
 
-  .paint {
+.paint {
       font-size: 40px;
       font-weight: bold;
-  }
+}
   
-  .price {
-    color: blue;
-    font-weight: bold;
-  }
-  
-    
+   
