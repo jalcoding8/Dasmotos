@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5801be6c47c1ea9b4a889c9ef388efe16cd3b864
 # Basic Webpage rendered with html, css, and images.
 
 ## Table of Contents
@@ -5,6 +9,10 @@
    *  README.md
    *  index.html
    *  index.css
+<<<<<<< HEAD
+=======
+   *  resources
+>>>>>>> 5801be6c47c1ea9b4a889c9ef388efe16cd3b864
    *  .gitignore file
 
 ## General Information
@@ -27,3 +35,7 @@ This Project is created with/by:
 ## Included is the redline outline:
 
 <img width="1209" height="1576" alt="image" src="https://github.com/user-attachments/assets/9e0eb7ba-557c-4c82-8adb-8bb00216c88f"/>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5801be6c47c1ea9b4a889c9ef388efe16cd3b864
