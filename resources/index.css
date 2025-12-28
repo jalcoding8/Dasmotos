@@ -4,6 +4,7 @@ h1, h2, h3, p {
 }
 
 h1 {
+    padding: 10px;
     font-family: Helvetica, sans-serif;
     font-size: 100px;
     font-weight: bold;
