@@ -16,7 +16,7 @@
    *  The LICENSE and .gitignore were added later
    *  The README.md utilized the Markdown language syntax
    *  Added favicon.
-   ![Favicon Icon](favicon_art.ico)    
+   <img src="favicon_art.ico" width="27" height="32" alt="Dasmoto Favicon">   
 
 ## Technologies
 This Project is created with/by:
