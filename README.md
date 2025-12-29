@@ -16,7 +16,8 @@
    *  The LICENSE and .gitignore were added later
    *  The README.md utilized the Markdown language syntax
    *  Added favicon.
-     ![art_brushes](https://github.com/user-attachments/assets/ab0e0293-894d-488c-8774-8a56a1b3a541)
+   
+<img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/8547502d-9302-4c61-b8d0-9f6a0e60683d" />
 
 
 ## Technologies
