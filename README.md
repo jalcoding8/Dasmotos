@@ -13,9 +13,10 @@
       to build a program to generate a random message to user.
       My program is a MEAL PLAN generator that makes suggestions for a dinner menu
       with a beverage, entree, and a side dish.
-   *  There are two files, the LICENSE file and the READEME.md file.
    *  The LICENSE and .gitignore were added later
    *  The README.md utilized the Markdown language syntax
+   *  Added favicon.
+   <img width="27" height="32" alt="image" src="https://github.com/favicon-art.ico"/>
    
 
 ## Technologies
