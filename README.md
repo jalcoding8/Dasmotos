@@ -16,8 +16,9 @@
    *  The LICENSE and .gitignore were added later
    *  The README.md utilized the Markdown language syntax
    *  Added favicon.
+   <img width="96" height="96" alt="favicon-96x96" src="https://github.com/user-attachments/assets/7810a86c-d998-4c60-aa69-5008fc737b64" />
+
    
-<img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/8547502d-9302-4c61-b8d0-9f6a0e60683d" />
 
 
 ## Technologies
