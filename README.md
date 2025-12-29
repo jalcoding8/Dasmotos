@@ -16,8 +16,7 @@
    *  The LICENSE and .gitignore were added later
    *  The README.md utilized the Markdown language syntax
    *  Added favicon.
-   <img width="27" height="32" alt="image" src="https://github.com/favicon-art.ico"/>
-   
+   ![Favicon Icon](favicon_art.ico)    
 
 ## Technologies
 This Project is created with/by:
