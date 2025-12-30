@@ -7,6 +7,7 @@
    *  index.css
    *  resources
    *  .gitignore file
+   *  Images (yes, one image has an extra 't'
 
 ## General Information
    *  This repository was created as a project to use html (HyperText Markup Language), CSS (Cascading Style Sheets), and some basic graphic images.
