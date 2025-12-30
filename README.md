@@ -10,9 +10,8 @@
 
 ## General Information
    *  This repository was created as a project to use html (HyperText Markup Language), CSS (Cascading Style Sheets), and some basic graphic images.
-      to build a program to generate a random message to user.
-      My program is a MEAL PLAN generator that makes suggestions for a dinner menu
-      with a beverage, entree, and a side dish.
+   *  Generated webpage throough - Settings - pages
+   *  Added to About
    *  The LICENSE and .gitignore were added later
    *  The README.md utilized the Markdown language syntax
    *  Added favicon.
